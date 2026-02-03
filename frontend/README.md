@@ -25,20 +25,20 @@ A modern, responsive Human Resource Management System frontend built with React.
 
 | Dashboard | Employees | Attendance |
 |-----------|-----------|------------|
-| ![Dashboard](screenshots/dashboard.png) | ![Employees](screenshots/employees.png) | ![Attendance](screenshots/attendance.png) |
+| ![Dashboard] | ![Employees] | ![Attendance] |
 
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Node.js 14+ and npm
-- Backend API running (Django backend)
-- Modern web browser
+- Node.js 16.x or higher
+- npm 8.x or higher
+- Backend API running (Django server)
 
-### 1. Clone & Setup
+### 1. Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/hrms-frontend.git
-cd hrms-frontend
+git clone https://github.com/SagarBhausahebSahane/HRMS-System.git
+cd HRMS-System/frontend
 
 # Install dependencies
 npm install

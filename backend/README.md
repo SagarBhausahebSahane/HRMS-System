@@ -19,4 +19,28 @@ A modern, scalable Human Resource Management System backend built with Django RE
 - **🌐 CORS Ready** - Configured for cross-origin requests
 - **🚀 Production Ready** - Security headers, logging, and deployment configs
 
-## 🏗️ Architecture
+
+## 📦 Installation
+
+### Prerequisites
+- Python 3.10+
+- MongoDB 5.0+
+- pip (Python package manager)
+
+### 1. Clone and Setup
+```bash
+# Clone repository
+git clone https://github.com/SagarBhausahebSahane/HRMS-System.git
+cd HRMS-System/backend
+
+# Create virtual environment
+python -m venv venv
+
+# Activate virtual environment
+# Windows:
+venv\Scripts\activate
+# Unix/MacOS:
+source venv/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
