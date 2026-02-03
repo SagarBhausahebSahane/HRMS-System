@@ -11,7 +11,7 @@ SECRET_KEY = os.getenv('SECRET_KEY', 'django-insecure-default-key-for-dev')
 
 DEBUG = os.getenv('DEBUG', 'False') == 'True'  # Default to False for production
 
-ALLOWED_HOSTS = ['https://hrms-system-1-4ul8.onrender.com/']  # Allow all hosts for now
+ALLOWED_HOSTS = ['*']  # Allow all hosts for now
 
 INSTALLED_APPS = [
     'django.contrib.admin',
