@@ -1,4 +1,4 @@
-export const API_BASE_URL ="https://hrms-system-2061.onrender.com" || process.env.REACT_APP_API_BASE_URL;
+export const API_BASE_URL ="https://hrms-system-2061.onrender.com/api" || process.env.REACT_APP_API_BASE_URL;
 
 export const STATUS_CODES = {
   SUCCESS: 200,
