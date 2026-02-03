@@ -3,7 +3,7 @@
 ![Django](https://img.shields.io/badge/Django-5.0.3-092E20?style=for-the-badge&logo=django)
 ![DRF](https://img.shields.io/badge/DRF-3.14.0-ff1709?style=for-the-badge&logo=django)
 ![MongoDB](https://img.shields.io/badge/MongoDB-5.0-47A248?style=for-the-badge&logo=mongodb)
-![Python](https://img.shields.io/badge/Python-3.9-3776AB?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 A modern, scalable Human Resource Management System backend built with Django REST Framework and MongoDB. Designed for simplicity and performance.
