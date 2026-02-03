@@ -1,0 +1,15 @@
+# React frontend
+node_modules/
+.env
+.env.local
+.env.production
+.env.development
+.vscode/
+.idea/
+.DS_Store
+build/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
